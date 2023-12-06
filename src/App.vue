@@ -24,12 +24,12 @@ export default {
     data() {
         return {
             audios: {
-                click: "../public/sounds/click.mp3",
-                stop: "../public/sounds/bottles.mp3",
-                button: "../public/sounds/click-button.mp3",
-                begain: "../public/sounds/begain.mp3",
-                win: "../public/sounds/win.mp3",
-                correct: "../public/sounds/correct.mp3",
+                click: "./assets/sounds/click.mp3",
+                stop: "./assets/sounds/bottles.mp3",
+                button: "./assets/sounds/click-button.mp3",
+                begain: "./assets/sounds/begain.mp3",
+                win: "./assets/sounds/win.mp3",
+                correct: "./assets/sounds/correct.mp3",
             },
         };
     },
